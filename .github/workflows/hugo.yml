@@ -54,7 +54,7 @@ jobs:
         run: |
           hugo \
             --minify \
-            --baseURL "https://4nhackin3.github.io"
+            --baseURL "https://Anh4ckin3.github.io"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
