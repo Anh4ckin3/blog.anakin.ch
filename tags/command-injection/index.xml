@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Command Injection on Ani blog</title>
+    <link>http://localhost:1313/tags/command-injection/</link>
+    <description>Recent content in Command Injection on Ani blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>may the force be with you 😎</copyright>
+    <lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/command-injection/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OSCP boxe - Jarvis</title>
+      <link>http://localhost:1313/posts/jarvis/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/jarvis/</guid>
+      <description>Jarvis - OSCP boxe # Scanning : # Lets use nmap to see open ports and services behind the ports :</description>
+      
+    </item>
+    
+  </channel>
+</rss>
