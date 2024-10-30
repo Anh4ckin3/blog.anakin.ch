@@ -1,3 +1,0 @@
-User-agent: *
-Disallow: /
-Sitemap: http://154.56.57.204:1313/sitemap.xml
